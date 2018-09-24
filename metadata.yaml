@@ -1,11 +1,16 @@
 _repo: Shout-Treason-The-Trial-of-Aaron-Burr_56121
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56121-h/images/cover.jpg
 creator:
   author:
     agent_name: Beirne, Francis Foulke
     gutenberg_agent_id: '48681'
     url: http://www.gutenberg.org/2009/agents/48681
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56121#Shout-Treason-The-Trial-of-Aaron-Burr
 gutenberg_issued: '2017-12-03'
 gutenberg_type: Text
 identifiers:
